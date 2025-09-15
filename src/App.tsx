@@ -3832,7 +3832,7 @@ const SplashScreen: React.FC = () => {
         className="w-52 h-70 mb-4 animate-pulse-custom" //Pengaturan ukuran logo
       />
       <p className="text-gray-800 text-lg font-semibold mt-6">
-        Tunggu Sebentar
+        Kahar Muzakkar, S.Pd
       </p>
     </div>
   );
